@@ -9,6 +9,11 @@ Welcome to the repository for Elemental Wars, a 2D card-based combat game where 
 ### Unit Animation with Spine Skeleton
 - Leveraged Spine Skeleton Animation to bring life to our elemental units, giving each of them a unique look and feel.
 - Each element's animation reflects its inherent nature, ensuring a visually immersive gameplay experience.
+### Unit Animation with Particle System
+- To implement the attack of units, the Particle System was used, which allows creating impressive visual effects.
+- Each attack is represented by a unique set of particles that create the effect of the unit's impact on the target.
+- Using the Particle System makes it possible to detail each attack, emphasizing their importance in the gameplay.
+- Each effect is designed to reflect the inherent nature of the attacking unit, adding visual depth and uniqueness to the game's battles.
 ### Class Dependency Diagrams
 - Compiled comprehensive class dependency diagrams for various game systems including:
   - Quests
